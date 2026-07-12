@@ -107,8 +107,8 @@ focus      Linux • Cloud • Segurança • Redes • Infra
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielArcanjo777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22c55e&text_color=cbd5e1&ring_color=8b5cf6" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArcanjo777&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielArcanjo777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22c55e&text_color=cbd5e1&ring_color=8b5cf6" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielArcanjo777&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ focus      Linux • Cloud • Segurança • Redes • Infra
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielArcanjo777&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Experience" alt="Troféus do GitHub" />
+  <img src="https://github-trophies.vercel.app/?username=GabrielArcanjo777&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Experience" alt="Troféus do GitHub" />
 </p>
 
 <p align="center">
