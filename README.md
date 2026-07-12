@@ -165,3 +165,4 @@ focus      Linux • Cloud • Segurança • Redes • Infra
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:3b82f6&height=110&section=footer" width="100%" alt="" />
+
