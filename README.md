@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Gabriel Arcanjo — Linux, Cloud, Segurança, Redes e Infra" />
+  <img src="./assets/header.svg?v=2" width="100%" alt="Gabriel Arcanjo — Linux, Cloud, Segurança, Redes e Infra" />
 </p>
 
 <p align="center">
