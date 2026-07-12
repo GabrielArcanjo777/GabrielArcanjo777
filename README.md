@@ -38,6 +38,7 @@
 | 📚 | Estudante de **Engenharia da Computação no Instituto Infnet** |
 | 🐧 | Entusiasta de **Linux**, automação e ambientes de terminal |
 | ☁️ | Explorando computação em nuvem, **Microsoft Azure** e segurança |
+| 🌐 | Conhecimentos em redes e infraestrutura |
 | 🛠️ | Transformando aprendizado em projetos práticos e documentação aberta |
 | 📍 | Rio de Janeiro, Brasil 🇧🇷 |
 
@@ -46,7 +47,7 @@
 ## 🐉 Meu terminal
 
 ```text
-┌──(gabriel㉿kali)-[~/github]
+┌──(gabriel)-[~/github]
 └─$ ./about-me.sh
 
 ██╗  ██╗ █████╗ ██╗     ██╗
@@ -60,9 +61,9 @@
 user       Gabriel Arcanjo
 education  Informática para Internet @ IFRJ
 status     Engenharia da Computação @ Instituto Infnet
-focus      Linux • Cloud • Segurança • Desenvolvimento
+focus      Linux • Cloud • Segurança • Redes • Infra
 
-┌──(gabriel㉿kali)-[~/github]
+┌──(gabriel)-[~/github]
 └─$ aprender --construir --compartilhar █
 ```
 
@@ -72,7 +73,6 @@ focus      Linux • Cloud • Segurança • Desenvolvimento
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -83,6 +83,8 @@ focus      Linux • Cloud • Segurança • Desenvolvimento
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Networking-00BFFF?style=for-the-badge&logo=network&wargo-cyan&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Infra-FF6B35?style=for-the-badge&logo=nginx&logoColor=white" alt="Infra" />
 </p>
 
 ---
@@ -100,8 +102,7 @@ focus      Linux • Cloud • Segurança • Desenvolvimento
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielArcanjo777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22c55e&text_color=cbd5e1&ring_color=8b5cf6" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielArcanjo777&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielArcanjo777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22c55e&text_color=cbd5e1&ring_color=8b5cf6" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
@@ -125,7 +126,7 @@ focus      Linux • Cloud • Segurança • Desenvolvimento
 ## ⚡ Curiosidades e hobbies
 
 ```text
-┌──(gabriel㉿kali)-[~]
+┌──(gabriel)-[~]
 └─$ cat hobbies.txt
 
 🎮 Games          ████████████░░░░░░   60%
@@ -133,9 +134,9 @@ focus      Linux • Cloud • Segurança • Desenvolvimento
 🎸 Música         ████████████████░░   80%
 💻 Coding         ██████████████████   90%
 ☕ Café            ████████████████████ 100% (essencial)
-🐧 Linux ricing   ████████████░░░░░░   65%
+🐧 Linux          ████████████░░░░░░   65%
 
-┌──(gabriel㉿kali)-[~]
+┌──(gabriel)-[~]
 └─$ echo "Sempre aprendendo, um commit de cada vez."
 ```
 
