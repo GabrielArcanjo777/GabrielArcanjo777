@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="./assets/header.svg?v=2" width="100%" alt="Gabriel Arcanjo — Linux, Cloud, Segurança, Redes e Infra" />
+  <img src="./assets/header.svg?v=2" width="100%" alt="Gabriel Arcanjo — Infraestrutura, Cloud e Segurança" />
+</p>
+
+<h3 align="center">Infraestrutura &amp; Cloud com foco em Segurança</h3>
+<p align="center">
+  <em>Linux e Redes no dia a dia · Engenharia da Computação @ Instituto Infnet</em>
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Engenharia+da+Computa%C3%A7%C3%A3o+%40+Instituto+Infnet;Linux+%E2%80%A2+Cloud+%E2%80%A2+Seguran%C3%A7a+%E2%80%A2+Redes+%E2%80%A2+Infra;Aprendendo%2C+construindo+e+compartilhando+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Aberto%20a%20oportunidades-Infra%20%26%20Cloud-22c55e?style=for-the-badge" alt="Aberto a oportunidades em Infra e Cloud" />
 </p>
 
 <p align="center">
@@ -18,10 +21,6 @@
   <a href="mailto:gabriel.arcanjo@al.infnet.edu.br">
     <img src="https://img.shields.io/badge/Email-Entrar%20em%20contato-be123c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielArcanjo777&color=3b82f6&style=flat-square&label=VISITANTES+DO+PERFIL" alt="Contador de visitas" />
 </p>
 
 ---
@@ -55,7 +54,7 @@
 user       Gabriel Arcanjo
 education  Téc. Informática para Internet @ IFRJ ✔
 status     Engenharia da Computação @ Instituto Infnet
-focus      Linux • Cloud • Segurança • Redes • Infra
+focus      Infra & Cloud • Segurança • Linux/Redes
 
 ┌──(gabriel)-[~/github]
 └─$ aprender --construir --compartilhar █
@@ -98,8 +97,8 @@ focus      Linux • Cloud • Segurança • Redes • Infra
 
 | Projeto | O que você encontra | Stack |
 |---|---|---|
-| 🛡️ [CyberAlerta Guardian](https://github.com/GabrielArcanjo777/cyberalerta-guardian) | MVP de proteção assistida contra golpes no WhatsApp, com FastAPI, Next.js e análise de risco. | `Python` `FastAPI` `Next.js` `TypeScript` |
-| 🤖 [B2BFlow Python + Supabase + Z-API](https://github.com/GabrielArcanjo777/b2bflow-python-supabase-zapi-mvp) | MVP de automação para mensagens personalizadas, com segurança e modo de simulação. | `Python` `Supabase` `Z-API` |
+| 🛡️ [CyberAlerta Guardian](https://github.com/GabrielArcanjo777/cyberalerta-guardian) | Protege usuários contra golpes no WhatsApp — MVP com FastAPI + Next.js e análise de risco. | `Python` `FastAPI` `Next.js` `TypeScript` |
+| 🤖 [B2BFlow Python + Supabase + Z-API](https://github.com/GabrielArcanjo777/b2bflow-python-supabase-zapi-mvp) | Automatiza mensagens B2B personalizadas com foco em segurança e modo de simulação (dry-run). | `Python` `Supabase` `Z-API` |
 | ☁️ [Resumos Microsoft Azure](https://github.com/GabrielArcanjo777/dio-azure-resumos) | Anotações organizadas da formação Microsoft Azure da DIO. | `Azure` `Cloud` `Documentação` |
 
 ---
@@ -109,14 +108,6 @@ focus      Linux • Cloud • Segurança • Redes • Infra
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielArcanjo777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22c55e&text_color=cbd5e1&ring_color=8b5cf6" alt="Estatísticas do GitHub" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielArcanjo777&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GabrielArcanjo777&hide_border=true&background=0d1117&ring=8b5cf6&fire=22c55e&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=64748b" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=GabrielArcanjo777&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Experience" alt="Troféus do GitHub" />
 </p>
 
 <p align="center">
