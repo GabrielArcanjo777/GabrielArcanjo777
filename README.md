@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Aberto%20a%20oportunidades-Infra%20%26%20Cloud-22c55e?style=for-the-badge" alt="Aberto a oportunidades em Infra e Cloud" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Aberto%20a-Est%C3%A1gio%20em%20Infra%20%26%20Cloud-22c55e?style=for-the-badge" alt="Aberto a estágio em Infra e Cloud" />
 </p>
 
 <p align="center">
