@@ -32,4 +32,4 @@ Técnico em Informática para Internet pelo IFRJ e estudante de Engenharia da Co
 - **Seadrill** — IT Apprentice
 - **Instituto Infnet** — Engenharia da Computação
 - **IFRJ** — Técnico em Informática para Internet
-- **Google Cloud Computing Foundations** — certificação
+- **Google Cloud Computing Foundations** — certificado
