@@ -1,7 +1,5 @@
 # Gabriel Arcanjo
 
-**IT Apprentice @ Seadrill | Estudante de Engenharia da Computação**
-
 Construindo base em **desenvolvimento de software e infraestrutura**, com interesse em sistemas confiáveis, automação e resolução de problemas.
 
 ---
