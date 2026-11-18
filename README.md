@@ -1,38 +1,40 @@
 # Gabriel Arcanjo
 
-Construindo base em **desenvolvimento de software e infraestrutura**, com interesse em sistemas confiáveis, automação e resolução de problemas.
+Técnico em **Informática para Internet pelo IFRJ**. Atuo em TI na **Seadrill** e estudo desenvolvimento, sistemas e infraestrutura na prática.
 
 ---
 
 ## Sobre
 
-Sou técnico em **Informática para Internet pelo IFRJ** e estudante de **Engenharia da Computação no Instituto Infnet**.
+Trabalho com suporte e infraestrutura em ambiente offshore/corporativo e uso o resto do tempo para aprender programação e construir projetos próprios. A maioria foi feita com apoio de IA, e todo o código está aberto.
 
-Atualmente atuo como **IT Apprentice na Seadrill**, conciliando experiência prática em TI com minha formação em engenharia. Meu foco é desenvolver uma base sólida em programação, sistemas, infraestrutura e boas práticas de engenharia.
+Prefiro mostrar o que está no repositório a listar tecnologia que eu não uso.
 
-## Foco técnico
+## O que eu uso de verdade
 
-- **Programação:** Python, Java, C# e fundamentos de orientação a objetos
-- **Desenvolvimento:** APIs REST, integração de sistemas e fundamentos de aplicações web
-- **Infraestrutura:** Linux, Docker e fundamentos de cloud
-- **Engenharia:** Git, GitHub, testes e documentação técnica
+- **Python** — APIs com FastAPI, automação, testes com pytest
+- **TypeScript / JavaScript** — Next.js, React
+- **Kotlin** — Android com Compose
+- **Infraestrutura** — Linux, Docker, Active Directory, Zabbix
+- **Prática** — Git, testes automatizados, CI com GitHub Actions
 
 ## Experiência
 
-**Seadrill — IT Apprentice**  
-Experiência prática em ambiente corporativo de TI e suporte a operações, em paralelo à formação acadêmica.
+**Seadrill — IT Apprentice**
+Suporte a usuários e operações em ambiente offshore/corporativo, automação de rotinas internas e documentação de procedimentos.
 
 ## Formação
 
-**Instituto Infnet**  
-Engenharia da Computação — cursando
+**Instituto Federal do Rio de Janeiro (IFRJ)**
+Técnico em Informática para Internet — concluído
 
-**Instituto Federal do Rio de Janeiro (IFRJ)**  
-Técnico em Informática para Internet
+## Projetos
 
-## Atualmente
+**[cyberalerta-guardian](https://github.com/GabrielArcanjo777/cyberalerta-guardian)**
+Analisa mensagens de um WhatsApp autorizado em busca de sinais de golpe e alerta um contato de confiança. FastAPI, Next.js, Android (Kotlin) e casca desktop em Tauri.
 
-Aprofundando fundamentos de **engenharia de software, programação orientada a objetos, sistemas e infraestrutura**, com projetos acadêmicos e pessoais voltados à aplicação prática desses conhecimentos.
+**[b2bflow-python-supabase-zapi-mvp](https://github.com/GabrielArcanjo777/b2bflow-python-supabase-zapi-mvp)**
+Worker em Python para envio de mensagens a contatos autorizados via Supabase e Z-API, com dry run e testes.
 
 ---
 
