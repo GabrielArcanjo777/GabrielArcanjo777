@@ -1,12 +1,12 @@
 # Gabriel Arcanjo
 
-Técnico em **Informática para Internet pelo IFRJ**. Estudo desenvolvimento, sistemas e infraestrutura na prática, construindo projetos próprios.
+Graduando em **Sistemas de Computação pela UFF** e Técnico em **Informática para Internet pelo IFRJ**. Estudo desenvolvimento, sistemas e infraestrutura na prática, construindo projetos próprios.
 
 ---
 
 ## Sobre
 
-Trabalhei dois anos com suporte e infraestrutura em ambiente offshore/corporativo e uso o tempo livre para aprender programação e construir projetos próprios. A maioria foi feita com apoio de IA, e todo o código está aberto.
+Trabalhei dois anos com suporte de TI em ambiente corporativo, dando apoio às operações offshore, e uso o tempo livre para aprender programação e construir projetos próprios. A maioria foi feita com apoio de IA, e todo o código está aberto.
 
 Prefiro mostrar o que está no repositório a listar tecnologia que eu não uso.
 
@@ -21,9 +21,12 @@ Prefiro mostrar o que está no repositório a listar tecnologia que eu não uso.
 ## Experiência
 
 **Seadrill — IT Apprentice** · dez/2024 – nov/2026
-Suporte a usuários e operações em ambiente offshore/corporativo, automação de rotinas internas e documentação de procedimentos.
+Suporte a usuários em ambiente corporativo (onshore), apoio às operações offshore, controle de ativos, automação de rotinas internas e documentação de procedimentos.
 
 ## Formação
+
+**Universidade Federal Fluminense (UFF)**  
+Sistemas de Computação — em andamento
 
 **Instituto Federal do Rio de Janeiro (IFRJ)**
 Técnico em Informática para Internet — concluído
