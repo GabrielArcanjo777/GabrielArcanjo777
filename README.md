@@ -6,9 +6,11 @@ Graduando em **Sistemas de Computação pela UFF** e Técnico em **Informática 
 
 ## Sobre
 
-Trabalhei dois anos com suporte de TI em ambiente corporativo, dando apoio às operações offshore, e uso o tempo livre para aprender programação e construir projetos próprios. A maioria foi feita com apoio de IA, e todo o código está aberto.
+Trabalhei dois anos com suporte de TI em ambiente corporativo, dando apoio às operações offshore, e uso o tempo livre para aprender programação e construir projetos próprios. A maioria foi feita com apoio de IA, e os principais estão abertos aqui.
 
 Prefiro mostrar o que está no repositório a listar tecnologia que eu não uso.
+
+**Busco estágio em TI:** suporte, infraestrutura, cloud ou desenvolvimento.
 
 ## O que eu uso de verdade
 
@@ -20,7 +22,7 @@ Prefiro mostrar o que está no repositório a listar tecnologia que eu não uso.
 
 ## Experiência
 
-**Seadrill — IT Apprentice** · dez/2024 – nov/2026
+**Seadrill — Aprendiz de TI** · dez/2024 – nov/2026  
 Suporte a usuários em ambiente corporativo (onshore), apoio às operações offshore, controle de ativos, automação de rotinas internas e documentação de procedimentos.
 
 ## Formação
@@ -28,16 +30,24 @@ Suporte a usuários em ambiente corporativo (onshore), apoio às operações off
 **Universidade Federal Fluminense (UFF)**  
 Sistemas de Computação — em andamento
 
-**Instituto Federal do Rio de Janeiro (IFRJ)**
+**Instituto Federal do Rio de Janeiro (IFRJ)**  
 Técnico em Informática para Internet — concluído
 
 ## Projetos
 
-**[cyberalerta-guardian](https://github.com/GabrielArcanjo777/cyberalerta-guardian)**
+**[cyberalerta-guardian](https://github.com/GabrielArcanjo777/cyberalerta-guardian)**  
 Analisa mensagens de um WhatsApp autorizado em busca de sinais de golpe e alerta um contato de confiança. FastAPI, Next.js, Android (Kotlin) e casca desktop em Tauri.
 
-**[b2bflow-python-supabase-zapi-mvp](https://github.com/GabrielArcanjo777/b2bflow-python-supabase-zapi-mvp)**
+**[b2bflow-python-supabase-zapi-mvp](https://github.com/GabrielArcanjo777/b2bflow-python-supabase-zapi-mvp)**  
 Worker em Python para envio de mensagens a contatos autorizados via Supabase e Z-API, com dry run e testes.
+
+**[dio-azure-resumos](https://github.com/GabrielArcanjo777/dio-azure-resumos)**  
+Resumos da formação Microsoft Azure da DIO, organizados por tema, com validação automática da documentação no GitHub Actions.
+
+## Reconhecimentos
+
+- **Finalista** do XI Concurso Literário Prof. Arnaldo Niskier (CIEE Rio / Academia Brasileira de Letras), entre 100 finalistas de mais de 2.300 inscritos.
+- **Participante** da Imersão Vem pra Globo (1ª edição), jul/2026: IA aplicada, inovação e carreira.
 
 ---
 
