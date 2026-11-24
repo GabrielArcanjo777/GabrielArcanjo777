@@ -6,7 +6,7 @@ Graduando em **Sistemas de Computação pela UFF** e Técnico em **Informática 
 
 ## Sobre
 
-Trabalhei dois anos com suporte de TI em ambiente corporativo, dando apoio às operações offshore, e uso o tempo livre para aprender programação e construir projetos próprios. A maioria foi feita com apoio de IA, e os principais estão abertos aqui.
+Trabalhei dois anos com suporte de TI em ambiente corporativo e uso o tempo livre para aprender programação e construir projetos próprios. A maioria foi feita com apoio de IA, e os principais estão abertos aqui.
 
 Prefiro mostrar o que está no repositório a listar tecnologia que eu não uso.
 
@@ -23,7 +23,7 @@ Prefiro mostrar o que está no repositório a listar tecnologia que eu não uso.
 ## Experiência
 
 **Seadrill — Aprendiz de TI** · dez/2024 – nov/2026  
-Suporte a usuários em ambiente corporativo (onshore), apoio às operações offshore, controle de ativos, automação de rotinas internas e documentação de procedimentos.
+Suporte a usuários em ambiente corporativo, controle de ativos, automação de rotinas internas e documentação de procedimentos.
 
 ## Formação
 
