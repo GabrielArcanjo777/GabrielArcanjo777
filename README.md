@@ -36,13 +36,15 @@ Técnico em Informática para Internet — concluído
 ## Projetos
 
 **[cyberalerta-guardian](https://github.com/GabrielArcanjo777/cyberalerta-guardian)**  
-Analisa mensagens de um WhatsApp autorizado em busca de sinais de golpe e alerta um contato de confiança. FastAPI, Next.js, Android (Kotlin) e casca desktop em Tauri.
+Analisa mensagens de um WhatsApp autorizado em busca de sinais de golpe e alerta um contato de confiança. Regras determinísticas decidem; LLM só roda em modo sombra. FastAPI, Next.js, Android (Kotlin) e Tauri, com CI rodando pytest, ruff, Playwright e testes Android.
 
 **[b2bflow-python-supabase-zapi-mvp](https://github.com/GabrielArcanjo777/b2bflow-python-supabase-zapi-mvp)**  
-Worker em Python para envio de mensagens a contatos autorizados via Supabase e Z-API, com dry run e testes.
+Worker em Python que envia mensagem a contatos autorizados via Supabase e Z-API sem duplicar: dry run por padrão, idempotência por tabela de entregas e retry só no que é seguro repetir.
 
 **[dio-azure-resumos](https://github.com/GabrielArcanjo777/dio-azure-resumos)**  
-Resumos da formação Microsoft Azure da DIO, organizados por tema, com validação automática da documentação no GitHub Actions.
+Resumos da formação Microsoft Azure da DIO, com um validador de documentação que roda no GitHub Actions e tem os próprios testes.
+
+Cada projeto tem `AGENTS.md`, histórico, decisões e a lista do que **não** funciona.
 
 ## Reconhecimentos
 
